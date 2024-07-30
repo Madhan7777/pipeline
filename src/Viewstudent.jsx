@@ -38,7 +38,7 @@ function Viewstudent() {
     <div id="add2">
       <div className="container "  >
 
-        <h1 id="app2" className="text-center  text-white bg-blue" id="add3" data-testid="heading">
+        <h1 id="app2" className="text-center  text-white bg-blue" data-testid="heading">
          Hostel Management System
         </h1>
 
