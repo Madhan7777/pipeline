@@ -92,7 +92,7 @@ function Editstudent() {
             
             <br />
 
-            <button className="btn btn-info " data-testid="updatebutton" className="fst-italic">Update</button>
+            <button className="btn btn-info fst-italic" data-testid="updatebutton" >Update</button>
           </form>
         </div>
       </div>
