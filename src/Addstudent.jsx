@@ -195,7 +195,7 @@ function Addstudent() {
          
           <br />
 
-          <button className="btn btn-info " className="fst-italic" data-testid="submitbutton">Submit</button>
+          <button className="btn btn-info fst-italic "  data-testid="submitbutton">Submit</button>
         </form>
 
         
